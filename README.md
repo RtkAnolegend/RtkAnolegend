@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RtkAnolegend
+- 👋 Hi, I’m @rtkanolegend
 - 👀 I’m interested in H4ACKING
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 
